@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E0724470-85FE-4535-A5CB-0A1FE19EDFA6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D6E956B06334FA64162877497C369F3C995C673D</key>
+		<string>https://github.com/galyb/iesa-2015-a3-mobile.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>exo-01/hello/platforms/ios/HelloWorld.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D6E956B06334FA64162877497C369F3C995C673D</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/galyb/iesa-2015-a3-mobile.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D6E956B06334FA64162877497C369F3C995C673D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D6E956B06334FA64162877497C369F3C995C673D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iesa-2015-a3-mobile</string>
+		</dict>
+	</array>
+</dict>
+</plist>
